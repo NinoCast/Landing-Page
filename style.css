@@ -1,0 +1,9 @@
+#header{
+    height: 20px;
+    width: 100vw;
+    background-color: aquamarine;
+}
+
+#header-links{
+    list-style-type: none;
+}
