@@ -45,13 +45,10 @@ body {
 .info-images {
     height: 100%;
     max-width: 400px;
+    background-color: maroon;
     display: flex;
     padding-left: 30px;
     flex-direction: column;
-    border: 4px;color: #1f2937;
-    
-    
-    
 }
 
 .hero {
@@ -63,7 +60,7 @@ body {
 }
 
 .button {
-    background-color: #3882f6;
+    background-color:maroon;
     color: #e5e7eb;
     width: fit-content;
 }
@@ -85,6 +82,7 @@ body {
 
 .container-five {
     display: flex;
+    background-color: #1f2937;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -92,7 +90,7 @@ body {
 }
   
 .action-call {
-background-color: #3882f6;
+background-color:maroon;
 }
 
 #hero-main {
